@@ -46,6 +46,6 @@ jobs:
             git clone https://github.com/MaryBamisile/myfastapi-book-project.git
             cd /home/azureuser/
             cd myfastapi-book-project/
-            git pull
+            git pull main
             sudo docker-compose up -d --build
           
